@@ -9,4 +9,4 @@ AWS-Solutions Architect Associate
 
 4. [EC2 Instance Storage](https://github.com/priyaskumar/AWS-SAA/blob/master/04.%20EC2%20Instance%20Storage.md)
 
-5. [ELB & ASG]()
+5. [ELB & ASG](https://github.com/priyaskumar/AWS-SAA/blob/master/05.%20ELB%20%26%20ASG.md)
