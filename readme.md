@@ -8,3 +8,5 @@ AWS-Solutions Architect Associate
 3. [EC2 - SAA level](https://github.com/priyaskumar/AWS-SAA/blob/master/03.%20EC2-SAA%20level.md#public-ip-private-ip-elastic-ip)
 
 4. [EC2 Instance Storage](https://github.com/priyaskumar/AWS-SAA/blob/master/04.%20EC2%20Instance%20Storage.md)
+
+5. [ELB & ASG]()
