@@ -12,3 +12,5 @@ AWS-Solutions Architect Associate
 5. [ELB & ASG](https://github.com/priyaskumar/AWS-SAA/blob/master/05.%20ELB%20%26%20ASG.md)
 
 6. [RDS, Aurora & ElastiCache](https://github.com/priyaskumar/AWS-SAA/blob/master/06.%20RDS%2C%20Aurora%20%26%20ElastiCache.md)
+
+7. [Route 53](https://github.com/priyaskumar/AWS-SAA/blob/master/07.%20Route%2053.md)
