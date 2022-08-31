@@ -16,3 +16,5 @@ AWS-Solutions Architect Associate
 7. [Route 53](https://github.com/priyaskumar/AWS-SAA/blob/master/07.%20Route%2053.md)
 
 8. [VPC](https://github.com/priyaskumar/AWS-SAA/blob/master/08.%20VPC.md)
+
+9. [S3 and Athena](https://github.com/priyaskumar/AWS-SAA/blob/master/09.%20S3.md)
